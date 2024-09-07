@@ -21,7 +21,10 @@ export const DATA = {
     "Django",
     "Postgres",
     "Docker",
+    "Git",
     "Figma",
+    "jQuery",
+    "Tailwind"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
