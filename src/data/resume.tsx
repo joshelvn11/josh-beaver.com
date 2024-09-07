@@ -8,7 +8,7 @@ export const DATA = {
   location: "United Kingdom",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "Developer, Designer, Hacker & Entrepreneur. I love to build things and help people and companies I connect with.",
   summary:
     "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
   avatarUrl: "/me.png",
@@ -69,7 +69,7 @@ export const DATA = {
       start: "January 2021",
       end: "April 2021",
       description:
-        "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
+        "Enrolled in Code Institute to pursue a diploma in fullstack software development, driven by a passion for web technologies. This intensive program provided comprehensive training in modern web development practices, equipping me with the skills to build robust, scalable applications. Through hands-on projects and industry-relevant coursework, I gained proficiency in front-end and back-end technologies, version control, and agile methodologies, laying a solid foundation for my career as a versatile web developer.",
     },
     {
       company: "Organic Zone",
@@ -81,19 +81,19 @@ export const DATA = {
       start: "January 2020",
       end: "April 2020",
       description:
-        "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
+        "Initially contracted to design and build their eCommerce platform and develop digital marketing strategies, I quickly grew passionate about the business. This led to a full-time role managing the eCommerce division, where I oversaw all aspects of development, marketing, and logistics. My responsibilities included optimizing the online shopping experience, implementing data-driven marketing campaigns, and streamlining order fulfillment processes, resulting in significant growth for the company's online presence and sales.",
     },
     {
       company: "eleven11",
       href: "https://splunk.com",
       badges: [],
       location: "Cape Town, ZA",
-      title: "Designer & Digital Marketer",
+      title: "Designer, Developer & Digital Marketer",
       logoUrl: "/splunk.svg",
       start: "January 2019",
       end: "April 2019",
       description:
-        "Co-developed a prototype iOS app with another intern in Swift for the new Splunk Phantom security orchestration product (later publicly demoed and launched at .conf annual conference in Las Vegas). Implemented a realtime service for the iOS app in Django (Python) and C++; serialized data using protobufs transmitted over gRPC resulting in an approximate 500% increase in data throughput.",
+        "Joined the agency as a web designer and developer, progressively expanding my skillset to include digital marketing services. During my tenure, I contributed to the development of numerous websites for diverse businesses and individuals, honing my skills in web design, development, and digital marketing strategies. This experience allowed me to gain a comprehensive understanding of the digital landscape and deliver winning solutions to clients.",
     },
     {
       company: "The Daily Goods Store",
@@ -105,7 +105,7 @@ export const DATA = {
       start: "January 2018",
       end: "April 2018",
       description:
-        "Proposed and implemented an internal ruby API for sending/receiving commands to scooters over LTE networks. Developed a fully automated bike firmware update system to handle asynchronous firmware updates of over 100,000+ scooters worldwide, and provide progress reports in real-time using React, Ruby on Rails, PostgreSQL and AWS EC2 saving hundreds of developer hours.",
+        "Co-founded The Daily Goods Store, an innovative organic, zero-waste, and community-oriented concept store. Leveraging my passion for technology, I developed the store's eCommerce platform and spearheaded all digital marketing initiatives. My strategic efforts in both the physical and digital realms contributed significantly to the business's growth, ultimately leading it to profitability. This experience showcased my ability to blend entrepreneurship with technical skills, demonstrating how technology can drive success in traditional retail environments.",
     },
     {
       company: "Exlcusive Hire",
@@ -117,7 +117,7 @@ export const DATA = {
       start: "May 2017",
       end: "August 2017",
       description:
-        "Designed and implemented a robust password encryption and browser cookie storage system in Ruby on Rails. Leveraged the Yahoo finance API to develop the dividend.com equity screener",
+        "Launched my career in event management immediately after completing school. Initially hired as an assistant events coordinator, I rapidly developed my skills and took on increased responsibilities. Within a short period, I progressed to managing and coordinating entire events, demonstrating my ability to quickly adapt, learn, and take on leadership roles in a fast-paced industry.",
     },
   ],
   education: [
