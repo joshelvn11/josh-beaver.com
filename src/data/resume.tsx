@@ -17,6 +17,8 @@ export const DATA = {
     "Next.js",
     "Typescript",
     "Node.js",
+    "Next.js",
+    "React Native",
     "Python",
     "Django",
     "Postgres",
@@ -67,7 +69,7 @@ export const DATA = {
     {
       company: "Code Institute",
       badges: [],
-      href: "https://shopify.com",
+      href: "",
       location: "Remote",
       title: "Student & Freelancer",
       logoUrl: "/code-institute-logo.png",
@@ -90,7 +92,7 @@ export const DATA = {
     },
     {
       company: "eleven11",
-      href: "https://splunk.com",
+      href: "",
       badges: [],
       location: "Cape Town, ZA",
       title: "Designer, Developer & Digital Marketer",
@@ -102,10 +104,10 @@ export const DATA = {
     },
     {
       company: "The Daily Goods Store",
-      href: "https://li.me/",
+      href: "",
       badges: [],
       location: "Cape Town, ZA",
-      title: "Co-founder",
+      title: "Co-founder & General Manager",
       logoUrl: "/dgs.jpeg",
       start: "February 2018",
       end: "May 2020",
@@ -114,7 +116,7 @@ export const DATA = {
     },
     {
       company: "Exlcusive Hire & Events",
-      href: "https://mitremedia.com/",
+      href: "",
       badges: [],
       location: "Cape Town, ZA",
       title: "Event Manager",
