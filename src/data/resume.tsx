@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Developer, Designer, Hacker & Entrepreneur. I love to build things and help people and companies I connect with.",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
+    "Throughout my career, I've had the privilege of working across diverse businesses and industries, constantly learning, adapting, and acquiring new skills. I thrive on challenges and personal growth, finding fulfillment in contributing value wherever I go. My passion lies in tackling new problems, expanding my skillset, and making a positive impact – that's where I truly find my happy place.",
   avatarUrl: "/me.png",
   skills: [
     "React",
@@ -25,6 +25,7 @@ export const DATA = {
     "Figma",
     "jQuery",
     "Tailwind",
+    "Bootstrap",
     "Wordpress",
     "Oxygen Builder",
     "WooCommerce",
@@ -187,7 +188,7 @@ export const DATA = {
       href: "https://magicui.design",
       active: true,
       description:
-        "Designed, developed and sold animated UI components for developers.",
+        "A simple yet effective and enaging language learning application.",
       technologies: [
         "Python",
         "Django",
