@@ -206,7 +206,7 @@ export default function Page() {
                 Get in Touch
               </h2>
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Want to chat? Just shoot me a mail
+                Want to chat? Just send me a mail at <a href={`mailto:${DATA.contact.email}`} className="underline hover:text-primary">{DATA.contact.email}</a>
               </p>
             </div>
           </BlurFade>

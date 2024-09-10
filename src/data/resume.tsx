@@ -38,7 +38,7 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
+    email: "josh.elvn11@gmail.com",
     tel: "+123456789",
     social: {
       GitHub: {
@@ -187,7 +187,7 @@ export const DATA = {
     },
     {
       title: "VocabVenture",
-      href: "https://magicui.design",
+      href: "",
       active: true,
       description:
         "A simple yet effective and enaging language learning application.",
@@ -200,17 +200,17 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://magicui.design",
+          href: "",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
+          href: "https://github.com/joshelvn11/VocabVenture",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      image: "/vocabventure.png",
+      video: "",
     },
     {
       title: "ish.pm",
@@ -264,27 +264,7 @@ export const DATA = {
       video:
         "",
     },
-    {
-      title: "CBPS",
-      href: "https://beam-portal.org/",
-      active: true,
-      description:
-        "A resource ",
-      technologies: [
-        "Wordpress",
-        "Oxygen",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://beam-portal.org/",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "",
-      video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
-    },
+
   ],
   hackathons: [
     {
