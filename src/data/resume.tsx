@@ -11,7 +11,7 @@ export const DATA = {
     "Developer, Designer, Hacker & Entrepreneur. I love to build things and help people and companies I connect with.",
   summary:
     "Throughout my career, I've had the privilege of working across diverse businesses and industries, constantly learning, adapting, and acquiring new skills. I thrive on challenges and personal growth, finding fulfillment in contributing value wherever I go. My passion lies in tackling new problems, expanding my skillset, and making a positive impact – that's where I truly find my happy place.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me.jpg",
   skills: [
     "React",
     "Next.js",
